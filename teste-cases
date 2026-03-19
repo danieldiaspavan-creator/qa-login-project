@@ -1,1 +1,13 @@
 test-cases/login-tests.md
+
+# Test Cases - Login
+
+## CT-001: Login válido
+
+Passos:
+1. Inserir email válido
+2. Inserir senha válida
+3. Clicar em login
+
+Resultado esperado:
+Login realizado com sucesso
