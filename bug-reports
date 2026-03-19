@@ -1,1 +1,14 @@
 bug-reports/login-bug.md
+
+# Bug Report
+
+Título: Login com email inválido
+
+Descrição:
+Sistema não valida corretamente o formato do email
+
+Resultado esperado:
+Exibir erro
+
+Resultado atual:
+Permite tentativa de login
