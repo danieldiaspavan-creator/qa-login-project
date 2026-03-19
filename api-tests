@@ -1,1 +1,21 @@
 api-tests/postman-tests.md
+
+## ❌ Login com credenciais inválidas
+
+Request:
+POST /auth/login
+
+Body:
+{
+  "username": "kminchelle",
+  "password": "0lelplR"
+}
+
+Resultado esperado:
+Retornar erro de autenticação
+
+Resultado obtido:
+Status 400 com mensagem "Invalid credentials"
+
+Status:
+Passou
