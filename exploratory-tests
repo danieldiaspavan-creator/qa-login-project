@@ -1,1 +1,7 @@
 exploratory-tests/exploration.md
+
+# Teste Exploratório
+
+Testei diferentes cenários de login, incluindo dados inválidos e campos vazios.
+
+Identifiquei falhas na validação de email.
