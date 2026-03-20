@@ -19,3 +19,40 @@ Status 400 com mensagem "Invalid credentials"
 
 Status:
 Passou
+
+## ✔️ Login com credenciais válidas
+
+### 🔹 Endpoint
+POST /auth/login
+
+### 🔹 Ferramenta
+Postman
+
+### 🔹 Request
+
+Body:
+{
+  "username": "mor_2314",
+  "password": "83r5^_"
+}
+
+### 🔹 Passos para execução
+1. Abrir o Postman
+2. Selecionar o método POST
+3. Inserir a URL do endpoint
+4. Adicionar o body em formato JSON
+5. Enviar a requisição
+
+### 🔹 Resultado esperado
+- Status code: 200 OK
+- Retorno de um token de autenticação
+
+### 🔹 Resultado obtido
+- Status code: 200 OK
+- Token retornado com sucesso
+
+### 🔹 Evidência
+![Login Success](./api-tests/images/login-success.png)
+
+### 🔹 Status
+Passou ✅
