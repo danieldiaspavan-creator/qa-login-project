@@ -1,3 +1,6 @@
+## 🔗 Acesse o projeto
+[Repositório no GitHub](https://github.com/danieldiaspavan-creator/qa-login-project)
+
 # 🧪 Projeto de Testes - Funcionalidade de Login
 
 ## 📌 Objetivo
